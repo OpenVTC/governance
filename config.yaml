@@ -1,0 +1,16 @@
+teams:
+  - name: lf-staff
+    maintainers:
+      - ryjones
+    members:
+      - jwagantall
+      - thelinuxfoundation
+  - name: openvtc-maintainers
+    maintainers:
+      - ryjones
+#    members:
+repositories:
+  - name: governance
+    teams:
+      lf-staff: maintain
+    visibility: public
