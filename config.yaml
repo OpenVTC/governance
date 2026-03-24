@@ -7,10 +7,24 @@ teams:
       - thelinuxfoundation
   - name: openvtc-maintainers
     maintainers:
-      - ryjones
-#    members:
+      - geoffturk
+    members:
+      - stormer78
 repositories:
   - name: governance
     teams:
       lf-staff: maintain
+      openvtc-maintainers: maintain
+    visibility: public
+  - name: verifiable-trust-infrastructure
+    teams:
+      openvtc-maintainers: maintain
+    visibility: public
+  - name: dtg-credentials
+    teams:
+      openvtc-maintainers: maintain
+    visibility: public
+  - name: openvtc
+    teams:
+      openvtc-maintainers: maintain
     visibility: public
