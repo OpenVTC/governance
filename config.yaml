@@ -10,6 +10,7 @@ teams:
       - geoffturk
     members:
       - stormer78
+      - vthwang
 repositories:
   - name: governance
     teams:
@@ -31,6 +32,4 @@ repositories:
   - name: vti-setup
     teams:
       openvtc-maintainers: admin
-    collaborators:
-      vthwang: write
     visibility: public
