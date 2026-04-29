@@ -30,5 +30,5 @@ repositories:
     visibility: public
   - name: vti-setup
     teams:
-      openvtc-maintainers: maintain
+      openvtc-maintainers: admin
     visibility: public
