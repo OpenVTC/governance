@@ -31,4 +31,6 @@ repositories:
   - name: vti-setup
     teams:
       openvtc-maintainers: admin
+    collaborators:
+      vthwang: write
     visibility: public
