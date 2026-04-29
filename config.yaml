@@ -28,3 +28,7 @@ repositories:
     teams:
       openvtc-maintainers: maintain
     visibility: public
+  - name: vti-setup
+    teams:
+      openvtc-maintainers: maintain
+    visibility: public
