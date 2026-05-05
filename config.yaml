@@ -5,31 +5,39 @@ teams:
     members:
       - jwagantall
       - thelinuxfoundation
+  - name: openvtc-admins
+    maintainers:
+      - geoffturk
+      - stormer78
   - name: openvtc-maintainers
     maintainers:
       - geoffturk
-    members:
       - stormer78
+    members:
       - vthwang
 repositories:
   - name: governance
     teams:
       lf-staff: maintain
-      openvtc-maintainers: maintain
+      openvtc-admins: maintain
     visibility: public
   - name: verifiable-trust-infrastructure
     teams:
+      openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
   - name: dtg-credentials
     teams:
+      openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
   - name: openvtc
     teams:
+      openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
   - name: vti-setup
     teams:
-      openvtc-maintainers: admin
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
     visibility: public
