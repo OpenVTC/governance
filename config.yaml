@@ -21,11 +21,6 @@ repositories:
       lf-staff: maintain
       openvtc-admins: maintain
     visibility: public
-  - name: verifiable-trust-infrastructure
-    teams:
-      openvtc-admins: admin
-      openvtc-maintainers: maintain
-    visibility: public
   - name: dtg-credentials
     teams:
       openvtc-admins: admin
@@ -36,7 +31,17 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
+  - name: verifiable-trust-infrastructure
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+    visibility: public
   - name: vti-setup
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+    visibility: public
+  - name: wiki
     teams:
       openvtc-admins: admin
       openvtc-maintainers: maintain
