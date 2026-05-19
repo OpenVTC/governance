@@ -46,3 +46,8 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
+  - name: vta-browser-plugin
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+    visibility: public
