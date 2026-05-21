@@ -56,3 +56,4 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
+    branch: main
