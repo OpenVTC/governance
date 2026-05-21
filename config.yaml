@@ -51,3 +51,8 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
+  - name: vti-didcomm-js
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+    visibility: public
