@@ -56,3 +56,8 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
+  - name: rp-sdk-js
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+    visibility: public
