@@ -61,3 +61,8 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
+  - name: vta-mobile-agent-ios
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+    visibility: public
