@@ -66,3 +66,8 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
+  - name: vti-push-gateway
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+    visibility: public
