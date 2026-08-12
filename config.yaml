@@ -15,6 +15,9 @@ teams:
       - stormer78
     members:
       - vthwang
+  - name probablistic-sampling-members
+    members:
+      - denispopov15
 repositories:
   - name: governance
     teams:
