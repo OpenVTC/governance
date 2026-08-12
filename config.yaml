@@ -15,6 +15,11 @@ teams:
       - stormer78
     members:
       - vthwang
+  - name: probablistic-sampling-members
+    maintainers:
+      - stormer78
+    members:
+      - denispopov15
 repositories:
   - name: governance
     teams:
@@ -80,4 +85,5 @@ repositories:
     teams:
       openvtc-admins: admin
       openvtc-maintainers: maintain
+      probablistic-sampling-members: write
     visibility: public
