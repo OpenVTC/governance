@@ -76,3 +76,8 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
+  - name: probablistic-sampling-for-connection-vcs
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+    visibility: public
