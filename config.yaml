@@ -19,7 +19,7 @@ teams:
     maintainers:
       - stormer78
     members:
-      - denispopov15
+      - DenisPopov15
 repositories:
   - name: governance
     teams:
