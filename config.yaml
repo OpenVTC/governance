@@ -86,4 +86,8 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
       probablistic-sampling-members: write
+  - name: vta-agent-memory
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
     visibility: public
