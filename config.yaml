@@ -20,6 +20,12 @@ teams:
       - stormer78
     members:
       - DenisPopov15
+  - name: predicate-credential-system-members
+    maintainers:
+      - stormer78
+      - geoffturk
+    members:
+      - etairi
 repositories:
   - name: governance
     teams:
@@ -96,4 +102,10 @@ repositories:
     teams:
       openvtc-admins: admin
       openvtc-maintainers: maintain
+    visibility: public
+  - name: predicate-credential-system
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+      predicate-credential-system-members: write
     visibility: public
