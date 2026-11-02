@@ -109,3 +109,8 @@ repositories:
       openvtc-maintainers: maintain
       predicate-credential-system-members: write
     visibility: public
+  - name: verifiable-trust-network
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+    visibility: public
