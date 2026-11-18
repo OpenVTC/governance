@@ -114,3 +114,9 @@ repositories:
       openvtc-admins: admin
       openvtc-maintainers: maintain
     visibility: public
+  - name: openvti-pcs-mono-repo
+    teams:
+      openvtc-admins: admin
+      openvtc-maintainers: maintain
+      predicate-credential-system-members: write
+    visibility: public
